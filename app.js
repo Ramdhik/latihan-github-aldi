@@ -5,6 +5,7 @@ const rl = readline.createInterface({
   output: process.stdout
 });
 
+console.log("===  simulator kedua   ===");
 console.log("===  simulator  ===");
 console.log('=== Kalkulator Sederhana ===');
 rl.question('Masukkan angka pertama: ', (input1) => {
